@@ -1,0 +1,6 @@
+nome;idade
+Lucas Andrade;29
+João Cascalho;35
+João Cascalho;30
+Bruna Ribeiro;30
+João Andrade;-2

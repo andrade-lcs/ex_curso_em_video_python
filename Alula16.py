@@ -1,0 +1,27 @@
+#l = ('Hambúrgue', 'Suco', 'Pizza', 'Pudim', 'Batata Frita')
+#for c in l:
+#    print(f'eu vou comer {c}.')
+#for c in range(0, len(l)):
+#     print(f'Ey vou comer {l[c]} na posição {c}.')
+#for p, c in enumerate(l):
+#    print(f'Eu vou comer {c} na posição {p}')
+#print('Comi para caramba!')
+#print(sorted(l))
+#print(l)
+#a = (2, 5, 4)
+#b = (5, 8, 1, 2)
+#print(a)
+#print(b)
+#c = b + a
+#print(c)
+#print(len(c))
+#print(c.count(9))
+#print(c.index(2, 4))
+#a = int(input('digite a: '))
+#b = int(input('digite b: '))
+#c = int(input('digite c: '))
+#d = int(input('digite d: '))
+#aa = (a, b, c, d)
+#print(aa)
+#p = ('Lucas', 39, 'M', 85)
+#print(p)
