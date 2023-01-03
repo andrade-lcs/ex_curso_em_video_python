@@ -1,4 +1,9 @@
 def voto(n):
+    '''
+    Função Voto, calcula a situação eleitoral de uma pessoa.
+    :param n: Entratada o ano de nacimento de uma pessoa
+    :return: Condição eleitoral de uma pessoa
+    '''
     from datetime import date
     i = (date.today().year) - n
     if i <= 1:
