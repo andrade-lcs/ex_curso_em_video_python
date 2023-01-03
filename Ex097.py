@@ -1,7 +1,7 @@
 def esc(msg):
-    a = len(msg)+4
-    print('-'*a)
-    print(f'  {msg}')
+    a = len(msg) + 6
+    print('-' * a)
+    print(msg, ' '*3)
     print('-' * a)
 
 
